@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import PainPoints from './components/PainPoints';
 import Services from './components/Services';
 import Brands from './components/Brands';
+import Flipbook from './components/Flipbook';
 import Products from './components/Products';
 import WhyChooseUs from './components/WhyChooseUs';
 import Process from './components/Process';
@@ -21,6 +22,7 @@ export default function App() {
         <PainPoints />
         <Services />
         <Brands />
+        <Flipbook />
         <Products />
         <WhyChooseUs />
         <Process />
